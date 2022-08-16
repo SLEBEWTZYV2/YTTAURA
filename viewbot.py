@@ -2,7 +2,7 @@
 #-*- coding:utf-8 -*-
  
 """
-@author: &! Tekky#1337
+@author: you're*.#0780
 @file: viewbot.py
 @time: 2024/07/29
 """
@@ -28,7 +28,7 @@ class Main:
 
     def gui(self):
         os.system("cls" if os.name == "nt" else "clear")
-        txt = """\n██╗   ██╗██╗███████╗██╗    ██╗██████╗  ██████╗ ████████╗\n██║   ██║██║██╔════╝██║    ██║██╔══██╗██╔═══██╗╚══██╔══╝\n██║   ██║██║█████╗  ██║ █╗ ██║██████╔╝██║   ██║   ██║   \n╚██╗ ██╔╝██║██╔══╝  ██║███╗██║██╔══██╗██║   ██║   ██║   \n ╚████╔╝ ██║███████╗╚███╔███╔╝██████╔╝╚██████╔╝   ██║   \n  ╚═══╝  ╚═╝╚══════╝ ╚══╝╚══╝ ╚═════╝  ╚═════╝    ╚═╝\n                   By &! Tekky#1337\n\n\n\n\n"""
+        txt = """\nAFAH IYAH?\n                   By you're*.#0780\n\n\n\n\n"""
         print(
             Colorate.Vertical(
                 Colors.DynamicMIX((Col.light_blue, Col.cyan)), Center.XCenter(txt)
